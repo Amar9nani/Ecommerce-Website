@@ -14,7 +14,7 @@ import './App.css'
 
 class App extends Component {
   state = {
-    cartList: [],
+    cartList: [], 
   }
 
   //   TODO: Add your code for remove all cart items, increment cart item quantity, decrement cart item quantity, remove cart item
